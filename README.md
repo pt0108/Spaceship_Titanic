@@ -14,4 +14,4 @@
 - catboost_info 폴더 : catboost 파일
 - aa.dot : 시각화 파일
 - spaceship.ipynb : 총정리된 노트북 파일
-- 프레젠테이션1.pptx : 발표 자료 ppt
+- 프레젠테이션1.pptx : 시각화 위주로 정리된 ppt
